@@ -1,3 +1,7 @@
 git add example.txt
+dev.jj.mergeconflict
+git commit -m "Modify example.txt in new branch"
+git push origin new-branch
 git commit -m "Add example.txt"
 git push origin main
+main
