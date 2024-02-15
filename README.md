@@ -33,3 +33,5 @@ _Game compatibility, or lack of it, is the single most critical contributor to t
 **Windows**
 
 _Currently, there are thousands more games available for Windows than Mac, and none (to this writer’s knowledge) that are available for Mac only and not Windows._
+
+## In conclusion, both operating systems have their strengths and weaknesses. It ultimately comes down to what’s most important to you. If you want an easy-to-use operating system, or one that provides greater flexibility, if security is a priority, or if interoperability with other systems is important, these are all factors to consider when choosing between Windows and macOS1.
