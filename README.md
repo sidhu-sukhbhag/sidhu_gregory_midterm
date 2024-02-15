@@ -2,6 +2,8 @@
 
 This is the argument between mac and windows.
 ![fender Telecaster](images/R.webp)
+
+
 ## Hardware Compatibility
 
 **Mac**
@@ -14,6 +16,8 @@ _In contrast, Windows runs on a wide range of devices, from powerful workstation
 
 ![fender Telecaster](images/Windows-versus-Mac.png)
 
+
+
 ## Customization
 
 **Mac**
@@ -24,6 +28,8 @@ _Apple manufactures its own hardware and software, which makes it simpler to sel
 
 _Computers running on Windows have a greater degree of customization compared to Apple’s. You’re free to change a PC’s CPU, GPU, memory, and storage far easier than you can with an Apple device1._
 
+
+
 ## Game Compatibility
 
 **Mac**
@@ -33,5 +39,7 @@ _Game compatibility, or lack of it, is the single most critical contributor to t
 **Windows**
 
 _Currently, there are thousands more games available for Windows than Mac, and none (to this writer’s knowledge) that are available for Mac only and not Windows._
+
+
 
 ## In conclusion, both operating systems have their strengths and weaknesses. It ultimately comes down to what’s most important to you. If you want an easy-to-use operating system, or one that provides greater flexibility, if security is a priority, or if interoperability with other systems is important, these are all factors to consider when choosing between Windows and macOS1.
