@@ -14,7 +14,7 @@ _In contrast, Windows runs on a wide range of devices, from powerful workstation
 
 ![fender Telecaster](images/Windows-versus-Mac.png)
 
-## Customization**
+## Customization
 
 **Mac**
 
@@ -24,3 +24,12 @@ _Apple manufactures its own hardware and software, which makes it simpler to sel
 
 _Computers running on Windows have a greater degree of customization compared to Apple’s. You’re free to change a PC’s CPU, GPU, memory, and storage far easier than you can with an Apple device1._
 
+## Game Compatibility
+
+**Mac**
+
+_Game compatibility, or lack of it, is the single most critical contributor to the downfall of Mac gaming_
+
+**Windows**
+
+_Currently, there are thousands more games available for Windows than Mac, and none (to this writer’s knowledge) that are available for Mac only and not Windows._
